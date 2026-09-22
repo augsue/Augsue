@@ -1,16 +1,16 @@
-# Olá! 
+# Saalve! ✋
 Sou **Davi**, programador
 
-## Sobre Mim
+## ⌨️ Sobre Mim
 
 Estou cursando **Análise e Desenvolvimento de Sistemas**. Tenho experiência prática com **React**, **JavaScript**, **Linux**, **Python**, **SQL**, e sempre com vontade nova na cabeça pra aprender mais.
 
-## Meu Foco:
+## 🪜 Meu Foco:
 
-Quero aprender mais sobre a área de TI, cuntinuamente estudando, realizando projetos, desenvolvendo conexões com novas pessoas e cada dia melhorando mais
+Quero aprender mais sobre a área de TI, cuntinuamente estudando, realizando projetos, ganahndo mais experiências de emprego, desenvolvendo conexões com novas pessoas e cada dia melhorando mais!
 
 
-## Conecte-se Comigo
+## Entre em contato!!
 
 - **Email**: [daviaugsue6@gmail.com]
 - **Celular**: +55 (61) 99113-1411

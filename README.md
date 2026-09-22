@@ -1,11 +1,11 @@
 # Saalve! ✋
 Sou **Davi**, programador
 
-## ⌨️ Sobre Mim
+## Sobre Mim
 
 Estou cursando **Análise e Desenvolvimento de Sistemas**. Tenho experiência prática com **React**, **JavaScript**, **Linux**, **Python**, **SQL**, e sempre com vontade nova na cabeça pra aprender mais.
 
-## 🪜 Meu Foco:
+## Meu Foco:
 
 Quero aprender mais sobre a área de TI, cuntinuamente estudando, realizando projetos, ganahndo mais experiências de emprego, desenvolvendo conexões com novas pessoas e cada dia melhorando mais!
 

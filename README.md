@@ -1,18 +1,10 @@
-# Saalve! ✋
-Sou **Davi**, programador
+# Saalve, Sou Davi Augsuê!✋
 
-## Sobre Mim
-
-Estou cursando **Análise e Desenvolvimento de Sistemas**. Tenho experiência prática com **React**, **JavaScript**, **Linux**, **Python**, **SQL**, e sempre com vontade nova na cabeça pra aprender mais.
+Estou cursando **Análise e Desenvolvimento de Sistemas**. Sempre com vontade nova na cabeça pra aprender mais. Tenho foco de desenvolver novas habilidades constantemente, novas experiências, novas conexões com pessoas e ser cada dia um profissional melhor.
 
 ## Technologies and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,docker,git)](https://skillicons.dev)
-
-## Meu Foco:
-
-Quero aprender mais sobre a área de TI, cuntinuamente estudando, realizando projetos, ganahndo mais experiências de emprego, desenvolvendo conexões com novas pessoas e cada dia melhorando mais!
-
 
 ## Entre em contato!!
 
@@ -21,4 +13,4 @@ Quero aprender mais sobre a área de TI, cuntinuamente estudando, realizando pro
 
 ---
 
-*"Movimento contínuo, jamais irei parar"*
+*"Hoje melhor do que ontem e pior do que amanhã."* - Filosofia Kaizen

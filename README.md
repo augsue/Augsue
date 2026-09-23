@@ -14,7 +14,6 @@ Quero aprender mais sobre a área de TI, cuntinuamente estudando, realizando pro
 
 - **Email**: [daviaugsue6@gmail.com]
 - **Celular**: +55 (61) 99113-1411
-- **LinkedIn**: https://www.linkedin.com/in/davi-augsu%C3%AA-495357425
 
 ---
 
